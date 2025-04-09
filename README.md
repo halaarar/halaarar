@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello! I'm Hala 👋 
 
-<!--
-**halaarar/halaarar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student in Data Science @ UBC
 
-Here are some ideas to get you started:
+🧬 Biomedical Sciences Graduate @ Trent University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Statistics | 💻 Machine Learning | 🧠 Health analytics 
+
+
+💡 Passionate about solving real-world problems using data
+
+
+📂 Check out my projects to see how I turn data into insights!
+
+
+📫 Let's connect! 
+
+📧 [halaosama92@yahoo.com](mailto:halaosama92@yahoo.com)  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/hala-arar/)
