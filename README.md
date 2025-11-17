@@ -15,7 +15,7 @@
 
 📫 Let's connect! 
 
-📧 [halaosama92@yahoo.com](mailto:halaosama92@yahoo.com)  
+📧 [hala.arar.02@gmail.com](mailto:hala.arar.02@gmail.com)  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/hala-arar/)
 
