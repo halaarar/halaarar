@@ -1,26 +1,57 @@
-## Hello! I'm Hala 👋 
+## Hello, I’m Hala
 
-🎓 Master's Student in Data Science @ UBC
+I recently completed the Master of Data Science program at the University of British Columbia, following a Bachelor of Biomedical Sciences with a minor in Mathematics. My work focuses on applied machine learning, natural language processing, and building end-to-end data pipelines.
 
-🧬 Biomedical Sciences Graduate @ Trent University
+I have experience developing large-scale NLP systems, including a two-stage PubMedBERT model and the SOORENA Shiny application for interactive exploration of predictions. I enjoy working on projects that combine data, domain knowledge, and practical impact.
 
-📊 Statistics | 💻 Machine Learning | 🧠 Health analytics 
+Explore my repositories to see how I approach problem solving, model development, and reproducible workflows.
 
+**Contact**  
+hala.arar.02@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/hala-arar/)
 
-💡 Passionate about solving real-world problems using data
+---
 
+## Tech Stack
 
-📂 Check out my projects to see how I turn data into insights!
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
+**Machine Learning and NLP**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-004D40.svg?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-005C5C.svg?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E.svg?style=flat-square)
 
-📫 Let's connect! 
+**Data Engineering and Big Data**  
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE.svg?style=flat-square&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 
-📧 [hala.arar.02@gmail.com](mailto:hala.arar.02@gmail.com)  
+**Cloud and Databases**  
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31.svg?style=flat-square&logo=amazon-s3&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900.svg?style=flat-square&logo=amazon-ec2&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6.svg?style=flat-square&logo=google-bigquery&logoColor=white)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/hala-arar/)
+**Data Science and Visualization**  
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black)
+![Shiny](https://img.shields.io/badge/Shiny-FFFFFF.svg?style=flat-square&logo=rstudio&logoColor=blue)
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=flat-square&logo=tableau&logoColor=white)
 
-
-
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-
+**Development Tools**  
+![Git](https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
