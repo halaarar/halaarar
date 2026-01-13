@@ -11,6 +11,7 @@ Explore my repositories to see how I approach problem solving, system design, an
 **Contact**  
 hala.arar.02@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/hala-arar/)
+[Portfolio](https://hala-arar.github.io/hala-arar-portfolio/)
 
 ---
 
