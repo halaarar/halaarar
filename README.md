@@ -1,10 +1,12 @@
 ## Hello, I’m Hala
 
-I recently completed the Master of Data Science program at the University of British Columbia, following a Bachelor of Biomedical Sciences with a minor in Mathematics. My work focuses on applied machine learning, natural language processing, and building end-to-end data pipelines.
+I recently completed a Master of Data Science at the University of British Columbia, following a Bachelor of Biomedical Sciences with a minor in Mathematics. My work sits at the intersection of applied data science, software implementation, and customer facing technical delivery.
 
-I have experience developing large-scale NLP systems, including a two-stage PubMedBERT model and the SOORENA Shiny application for interactive exploration of predictions. I enjoy working on projects that combine data, domain knowledge, and practical impact.
+I have experience building and deploying end to end data driven systems, including large scale NLP pipelines, interactive web applications, and API based automation workflows. I have worked on projects spanning machine learning, analytics platforms, and SaaS style implementations, often translating complex technical requirements into practical, usable solutions.
 
-Explore my repositories to see how I approach problem solving, model development, and reproducible workflows.
+I enjoy working on problems that require both technical depth and clear communication, especially where systems need to be reliable, explainable, and adopted by real users.
+
+Explore my repositories to see how I approach problem solving, system design, and reproducible workflows.
 
 **Contact**  
 hala.arar.02@gmail.com  
@@ -14,13 +16,15 @@ hala.arar.02@gmail.com
 
 ## Tech Stack
 
-**Languages**  
+### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Machine Learning and NLP**  
+### Machine Learning and NLP
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -29,28 +33,33 @@ hala.arar.02@gmail.com
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E.svg?style=flat-square)
 
-**Data Engineering and Big Data**  
+### Data Engineering and Automation
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C.svg?style=flat-square&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE.svg?style=flat-square&logo=apache-airflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE.svg?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A.svg?style=flat-square&logo=n8n&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=black)
 
-**Cloud and Databases**  
+### Cloud, APIs, and Databases
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_S3-569A31.svg?style=flat-square&logo=amazon-s3&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900.svg?style=flat-square&logo=amazon-ec2&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31.svg?style=flat-square&logo=amazon-s3&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF9900.svg?style=flat-square&logo=amazon-ec2&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=flat-square&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6.svg?style=flat-square&logo=google-bigquery&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571.svg?style=flat-square)
 
-**Data Science and Visualization**  
+### Web and Visualization
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Shiny](https://img.shields.io/badge/Shiny-FFFFFF.svg?style=flat-square&logo=rstudio&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=flat-square&logo=matplotlib&logoColor=black)
-![Shiny](https://img.shields.io/badge/Shiny-FFFFFF.svg?style=flat-square&logo=rstudio&logoColor=blue)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=flat-square&logo=tableau&logoColor=white)
 
-**Development Tools**  
+### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
